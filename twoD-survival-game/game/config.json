@@ -1,0 +1,10 @@
+{
+    "name" : "TwoD Survival Game",
+    "version" : "0.01",
+    "icon_image_path" : "./assets/image/default_icon.ico",
+    
+    "window_size" : [640, 480],
+
+    "max_tps" : 30,
+    "max_fps" : 60
+}

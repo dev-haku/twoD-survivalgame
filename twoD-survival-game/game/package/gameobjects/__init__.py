@@ -1,0 +1,1 @@
+from .world.square import Square
